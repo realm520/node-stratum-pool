@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/realm520/node-multi-hashing.git",
-        "bignum": "0.13.1",
+        "bignum": "https://github.com/realm520/node-bignum.git",
         "base58-native": "*",
         "async": "*"
     },
